@@ -1,4 +1,4 @@
 Marathon Data
 =============
 This is aggregated & anonymized finishing time data scraped from the web.
-I created this dataset for the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do).
+This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
